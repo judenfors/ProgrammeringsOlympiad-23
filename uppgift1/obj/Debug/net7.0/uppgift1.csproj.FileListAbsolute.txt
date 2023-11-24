@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\ProgrammeringsOlympiad-23\uppgift1\bin\Debug\net7.0\uppgift1.deps.json
+C:\Users\Admin\Documents\GitHub\ProgrammeringsOlympiad-23\uppgift1\bin\Debug\net7.0\uppgift1.dll
+C:\Users\Admin\Documents\GitHub\ProgrammeringsOlympiad-23\uppgift1\bin\Debug\net7.0\uppgift1.pdb
+C:\Users\Admin\Documents\GitHub\ProgrammeringsOlympiad-23\uppgift1\obj\Debug\net7.0\uppgift1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\ProgrammeringsOlympiad-23\uppgift1\obj\Debug\net7.0\uppgift1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\ProgrammeringsOlympiad-23\uppgift1\obj\Debug\net7.0\uppgift1.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\ProgrammeringsOlympiad-23\uppgift1\obj\Debug\net7.0\uppgift1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\ProgrammeringsOlympiad-23\uppgift1\obj\Debug\net7.0\uppgift1.dll
+C:\Users\Admin\Documents\GitHub\ProgrammeringsOlympiad-23\uppgift1\obj\Debug\net7.0\refint\uppgift1.dll
+C:\Users\Admin\Documents\GitHub\ProgrammeringsOlympiad-23\uppgift1\obj\Debug\net7.0\uppgift1.pdb
+C:\Users\Admin\Documents\GitHub\ProgrammeringsOlympiad-23\uppgift1\obj\Debug\net7.0\ref\uppgift1.dll
+C:\Users\Admin\Documents\GitHub\ProgrammeringsOlympiad-23\uppgift1\bin\Debug\net7.0\uppgift1.exe
+C:\Users\Admin\Documents\GitHub\ProgrammeringsOlympiad-23\uppgift1\bin\Debug\net7.0\uppgift1.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\ProgrammeringsOlympiad-23\uppgift1\obj\Debug\net7.0\uppgift1.genruntimeconfig.cache
